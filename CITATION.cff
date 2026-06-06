@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "TNBC Metabolic Strain Model"
+message: "If you use this software, notebooks, figures, or documentation, please cite this repository and credit the author."
+type: software
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi
+repository-code: "https://github.com/cloudynirvana/TNBC-Metabolic-Strain-MOD"
+license: MIT
+date-released: "2026-06-06"
+abstract: "Notebook-based ODE, bifurcation, Monte Carlo, and stability analysis for metabolic strain dynamics in triple-negative breast cancer."
