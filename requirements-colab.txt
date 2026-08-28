@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+sympy
+scikit-learn
+jupyter
+nbconvert
+psutil
