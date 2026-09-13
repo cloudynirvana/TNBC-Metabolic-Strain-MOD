@@ -1,7 +1,8 @@
 """Core TNBC metabolic ODE model.
 
-Research code only: this model is a computational hypothesis-testing framework,
-not a validated therapeutic model.
+Research code only: an in-silico hypothesis-testing framework for TNBC
+metabolic strain. Not a medical device, not a clinically validated biomarker,
+and not a therapeutic or treatment model.
 """
 from __future__ import annotations
 
