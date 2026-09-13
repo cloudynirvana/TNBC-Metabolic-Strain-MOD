@@ -6,11 +6,13 @@ reuse, and collaboration.
 
 Attribution request:
 If you use, quote, adapt, benchmark, or build on this code, notebooks,
-documentation, figures, or validation outputs, please cite the repository and
-credit Kelechi Ogbonna / cloudynirvana. The MIT License permits broad reuse,
-but scholarly and professional use should preserve attribution and provenance.
+documentation, figures, or in-silico analysis outputs, please cite the
+repository and credit Kelechi Ogbonna / cloudynirvana. The MIT License permits
+broad reuse, but scholarly and professional use should preserve attribution
+and provenance.
 
 Scientific status:
-This is a computational research model. It is not clinical guidance and should
-be reviewed by domain experts before any scientific or translational claims are
-made from its outputs.
+This is a computational research model, not a medical device and not a
+clinically validated biomarker. It is not clinical guidance and should be
+reviewed by domain experts before any scientific or translational claims are
+made from its outputs. See DISCLAIMER.md.

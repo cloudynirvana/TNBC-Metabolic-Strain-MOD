@@ -8,4 +8,4 @@ authors:
 repository-code: "https://github.com/cloudynirvana/TNBC-Metabolic-Strain-MOD"
 license: MIT
 date-released: "2026-06-06"
-abstract: "Notebook-based ODE, bifurcation, Monte Carlo, and stability analysis for metabolic strain dynamics in triple-negative breast cancer."
+abstract: "Research-only, in-silico ODE, bifurcation, Monte Carlo, and stability analysis for metabolic strain dynamics in triple-negative breast cancer. Not a medical device or clinically validated biomarker."
