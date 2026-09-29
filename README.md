@@ -10,8 +10,6 @@ An open-source computational model of metabolic strain in triple-negative breast
 
 This project uses ODEs to simulate ATP and ROS dynamics in TNBC, testing a nanobiocomposite intervention in Google Colab. The current notebook-oriented result reports a `G_mix` shift from `0.238` to `0.245`. That figure is a **model output**, not a cell measurement.
 
-A GPX4-clearance extension is an in-silico hypothesis and is **not** in the notebooks on `main` yet. See [LIMITATIONS.md](LIMITATIONS.md).
-
 ## Files
 
 - `tnbc_model.ipynb`: Annotated Colab notebook with simulation and plots.
