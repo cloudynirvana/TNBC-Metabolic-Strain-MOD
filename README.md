@@ -1,10 +1,16 @@
 # TNBC Metabolic Strain Model
 
+> **Status: in-silico research hypothesis. Not validated in cells, animals or patients.**
+> Not a cure, not a therapy, not a medical device, not clinical decision support.
+> Outputs are model results under stated assumptions and need wet-lab and clinical validation.
+
 An open-source computational model of metabolic strain in triple-negative breast cancer (TNBC).
 
 ## Overview
 
-This project uses ODEs to simulate ATP and ROS dynamics in TNBC, testing a nanobiocomposite intervention in Google Colab. The current notebook-oriented result reports a `G_mix` shift from `0.238` to `0.245`.
+This project uses ODEs to simulate ATP and ROS dynamics in TNBC, testing a nanobiocomposite intervention in Google Colab. The current notebook-oriented result reports a `G_mix` shift from `0.238` to `0.245`. That figure is a **model output**, not a cell measurement.
+
+A GPX4-clearance extension is an in-silico hypothesis and is **not** in the notebooks on `main` yet. See [LIMITATIONS.md](LIMITATIONS.md).
 
 ## Files
 
